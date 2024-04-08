@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.166a9fb8.css",
-    "main.js": "/react-gh-pages/static/js/main.448bf418.js",
-    "static/js/453.33ce657b.chunk.js": "/react-gh-pages/static/js/453.33ce657b.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.166a9fb8.css.map": "/react-gh-pages/static/css/main.166a9fb8.css.map",
-    "main.448bf418.js.map": "/react-gh-pages/static/js/main.448bf418.js.map",
-    "453.33ce657b.chunk.js.map": "/react-gh-pages/static/js/453.33ce657b.chunk.js.map"
+    "main.css": "/timeloadermui/static/css/main.166a9fb8.css",
+    "main.js": "/timeloadermui/static/js/main.976c92fe.js",
+    "static/js/453.33ce657b.chunk.js": "/timeloadermui/static/js/453.33ce657b.chunk.js",
+    "index.html": "/timeloadermui/index.html",
+    "main.166a9fb8.css.map": "/timeloadermui/static/css/main.166a9fb8.css.map",
+    "main.976c92fe.js.map": "/timeloadermui/static/js/main.976c92fe.js.map",
+    "453.33ce657b.chunk.js.map": "/timeloadermui/static/js/453.33ce657b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.166a9fb8.css",
-    "static/js/main.448bf418.js"
+    "static/js/main.976c92fe.js"
   ]
 }
